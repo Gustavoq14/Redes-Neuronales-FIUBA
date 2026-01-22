@@ -1,3 +1,4 @@
+![Visitas](https://profile-counter.glitch.me/tu-usuario/count.svg)
 # Redes-Neuronales-FIUBA
 El siguiente repositorio contiene los Trabajos Prácticos (TP) realizados durante el curso de grado y posgrado de [Redes Neuronales FIUBA](https://campusgrado.fi.uba.ar/course/index.php?categoryid=438) (Buenos Aires-Argentina). Espero sea de ayuda para todos aquellos que se estan iniciando en el mundo de la IA (Inteligencia Artificial).
 
